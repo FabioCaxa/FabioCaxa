@@ -6,7 +6,6 @@ My name is Fábio Vilela, I'm from Brazil.
 - :computer: I'm currently studying Computer Science at the University of the People.
 - :chart_with_upwards_trend: I'm currently learning Data Science at IBM via Coursera.
 - :snake: I'm learning more about Python and its libraries at Asimov Academy.
-- :books: I plan to get an MBA in Data Science and Analytics at the University of São Paulo.
 - :e-mail: How to reach me: [fabio_caxa@hotmail.com](fabio_caxa@hotmail.com)
 - :musical_keyboard: Former musician and composer changing careers.
 <hr>
