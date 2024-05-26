@@ -19,6 +19,8 @@ My name is Fábio Vilela, I'm from Brazil.
     <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png?raw=true" alt="Power BI Icon" title="Power BI" width="50" height="50" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" alt="Pandas Icon" title="Pandas" width="50" height="50" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" alt="NumPy Icon" title="NumPy" width="50" height="50" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg" alt="SciPy Icon" title="SciPy" width="50" height="50" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit-Learn Icon" title="Scikit-Learn" width="50" height="50" />
     <img src="https://icon.icepanel.io/Technology/svg/Matplotlib.svg" alt="Matplotlib Icon" title="Matplotlib" width="50" height="50" />
     <img src="https://cdn.worldvectorlogo.com/logos/seaborn-1.svg" alt="Seaborn Icon" title="Seaborn" width="50" height="50" />
     <img src="https://icon.icepanel.io/Technology/svg/Ploty.svg" alt="Plotly Icon" title="Plotly" width="50" height="50" />
