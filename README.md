@@ -25,6 +25,7 @@ My name is Fábio Vilela, I'm from Brazil.
     <img src="https://cdn.worldvectorlogo.com/logos/seaborn-1.svg" alt="Seaborn Icon" title="Seaborn" width="50" height="50" />
     <img src="https://icon.icepanel.io/Technology/svg/Ploty.svg" alt="Plotly Icon" title="Plotly" width="50" height="50" />
     <img src="https://icon.icepanel.io/Technology/svg/Streamlit.svg" alt="Streamlit Logo" title="Streamlit" width="50" height="50" />
+    <img src="https://global.discourse-cdn.com/business7/uploads/plot/original/2X/9/9c4b4055f9bfb678045f46f8b689503422dbed75.png" alt="Dash Icon" title="Dash" width="50" height="50" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite Icon" title="SQLite" width="50" height="50" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL Icon" title="MySQL" width="50" height="50" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript Icon" title="JavaScript" width="50" height="50" />
