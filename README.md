@@ -5,6 +5,7 @@ My name is Fábio Vilela, I'm from Brazil.
 ##  About Me:
 - :computer: Associate of Science in Computer Science, currentlly Studying for a Bachelor´s degree at the University of the People.
 - :chart_with_upwards_trend: IBM Certified Professional Data Scientist.
+- :cloud: Certified Google Cloud Computing.
 - :snake: I'm learning more about Python and its libraries at Asimov Academy.
 - :e-mail: How to reach me: [fabio_caxa@hotmail.com](fabio_caxa@hotmail.com)
 - :musical_keyboard: Former musician and composer.
